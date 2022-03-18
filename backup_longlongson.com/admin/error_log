@@ -1,0 +1,610 @@
+[11-Jul-2016 18:44:12 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[11-Jul-2016 18:44:12 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[11-Jul-2016 18:53:10 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[11-Jul-2016 18:53:10 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[12-Jul-2016 09:50:28 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 150
+[12-Jul-2016 09:50:28 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 150
+[12-Jul-2016 09:50:28 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 150
+[13-Jul-2016 11:22:30 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 150
+[13-Jul-2016 11:22:30 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 150
+[13-Jul-2016 11:22:30 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 150
+[13-Jul-2016 13:28:13 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[13-Jul-2016 13:28:13 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[13-Jul-2016 15:57:57 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 150
+[13-Jul-2016 15:57:57 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 150
+[13-Jul-2016 15:57:57 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 150
+[14-Jul-2016 15:45:48 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 150
+[14-Jul-2016 15:45:48 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 150
+[14-Jul-2016 15:45:48 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 150
+[14-Jul-2016 15:51:47 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 150
+[14-Jul-2016 15:51:47 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 150
+[14-Jul-2016 15:51:47 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 150
+[14-Jul-2016 15:52:13 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 150
+[14-Jul-2016 15:52:13 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 150
+[14-Jul-2016 15:52:13 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 150
+[15-Jul-2016 08:54:12 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[15-Jul-2016 08:55:46 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[15-Jul-2016 08:57:56 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[15-Jul-2016 09:09:05 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[15-Jul-2016 09:10:27 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[15-Jul-2016 09:12:09 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[15-Jul-2016 09:18:09 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[15-Jul-2016 09:44:26 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[15-Jul-2016 11:38:19 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[15-Jul-2016 11:40:10 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[15-Jul-2016 13:11:43 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 150
+[15-Jul-2016 13:11:43 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 150
+[15-Jul-2016 13:11:43 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 150
+[15-Jul-2016 14:33:30 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[15-Jul-2016 14:35:25 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[15-Jul-2016 15:00:00 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jul-2016 08:18:31 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[17-Jul-2016 09:16:42 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[17-Jul-2016 09:16:42 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[17-Jul-2016 09:32:06 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[17-Jul-2016 09:32:06 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[17-Jul-2016 09:47:20 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[17-Jul-2016 09:47:20 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[18-Jul-2016 09:30:16 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[18-Jul-2016 09:30:16 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[18-Jul-2016 10:08:59 asia/ho_chi_minh] PHP Parse error:  syntax error, unexpected ';' in /home/bdslong1/public_html/admin/templates/nhantin/items_tpl.php on line 71
+[21-Jul-2016 08:15:03 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[21-Jul-2016 08:15:03 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[21-Jul-2016 08:15:03 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[21-Jul-2016 08:15:28 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[21-Jul-2016 08:15:28 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[21-Jul-2016 08:15:28 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[21-Jul-2016 11:46:21 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[21-Jul-2016 11:46:21 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[21-Jul-2016 11:46:21 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[21-Jul-2016 11:46:27 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[21-Jul-2016 11:46:27 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[21-Jul-2016 11:46:27 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[21-Jul-2016 11:51:44 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[21-Jul-2016 11:51:44 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[23-Jul-2016 12:58:55 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[23-Jul-2016 13:00:41 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[23-Jul-2016 13:06:17 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[23-Jul-2016 13:08:45 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[23-Jul-2016 18:42:56 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[23-Jul-2016 18:42:56 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[23-Jul-2016 18:42:56 asia/ho_chi_minh] PHP Warning:  imagejpeg(../upload/news/3-kenh-bat-dong-san-co-the-but-pha-manh-cuoi-nam-2016---nha-dat-noi-thanh-dat-lam-nong-nghiep-va-bat-dong-san-quanh-cac-khu-cong-nghiep-duoc-du-bao-se-la-nhung-kenh-dau-tu-soi-dong-co-toc-do-tang-toc-nhanh-trong-nhung-thang-cuoi-nam-20161469274176_180x130.jpg): failed to open stream: File name too long in /home/bdslong1/public_html/admin/lib/functions.php on line 796
+[23-Jul-2016 18:44:00 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[23-Jul-2016 18:44:00 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[29-Jul-2016 10:32:33 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[29-Jul-2016 10:32:33 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[29-Jul-2016 10:42:07 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[29-Jul-2016 10:42:07 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[29-Jul-2016 11:20:37 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[29-Jul-2016 11:20:37 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[30-Jul-2016 17:02:10 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[30-Jul-2016 17:02:10 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[30-Jul-2016 17:02:10 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[31-Jul-2016 10:49:58 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[31-Jul-2016 10:49:58 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[31-Jul-2016 10:49:58 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[31-Jul-2016 10:56:42 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[31-Jul-2016 10:56:42 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[31-Jul-2016 10:56:42 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[01-Aug-2016 09:03:01 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[01-Aug-2016 09:03:01 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[01-Aug-2016 09:03:01 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[01-Aug-2016 10:02:35 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Aug-2016 10:02:35 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Aug-2016 11:07:30 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Aug-2016 11:07:30 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Aug-2016 11:17:04 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Aug-2016 11:17:04 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Aug-2016 11:44:13 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Aug-2016 11:44:13 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Aug-2016 11:52:12 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Aug-2016 11:52:12 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Aug-2016 12:37:14 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Aug-2016 12:37:14 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Aug-2016 13:36:47 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Aug-2016 13:39:12 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Aug-2016 16:53:32 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Aug-2016 16:53:32 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Aug-2016 19:18:13 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Aug-2016 19:18:13 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Aug-2016 19:22:48 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Aug-2016 19:22:48 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Aug-2016 19:39:38 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Aug-2016 19:39:38 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Aug-2016 19:41:13 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Aug-2016 19:41:13 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Aug-2016 20:05:14 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Aug-2016 20:05:14 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Aug-2016 20:34:50 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Aug-2016 20:34:50 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[02-Aug-2016 09:39:08 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[02-Aug-2016 09:40:35 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[02-Aug-2016 09:42:51 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[02-Aug-2016 09:45:18 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[05-Aug-2016 15:08:18 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[05-Aug-2016 15:08:18 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[27-Aug-2016 14:23:35 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 14:23:35 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 14:23:35 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 14:26:17 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 14:26:17 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 14:26:17 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 14:29:56 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 14:29:56 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 14:29:56 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 14:30:37 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 14:30:37 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 14:30:37 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 14:33:12 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 14:33:12 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 14:33:12 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 15:25:19 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 15:25:19 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 15:25:19 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 15:45:07 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 15:45:07 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Aug-2016 15:45:07 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[29-Aug-2016 13:49:19 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[29-Aug-2016 13:55:32 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[29-Aug-2016 14:30:57 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[29-Aug-2016 14:30:57 asia/ho_chi_minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdslong1/public_html/admin/lib/functions.php:221) in /home/bdslong1/public_html/admin/sources/setting.php on line 70
+[29-Aug-2016 14:30:57 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[29-Aug-2016 14:30:57 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[29-Aug-2016 14:30:57 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[29-Aug-2016 14:31:39 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[29-Aug-2016 14:31:39 asia/ho_chi_minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdslong1/public_html/admin/lib/functions.php:221) in /home/bdslong1/public_html/admin/sources/setting.php on line 70
+[29-Aug-2016 14:31:39 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[29-Aug-2016 14:31:39 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[29-Aug-2016 14:31:39 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[29-Aug-2016 14:34:59 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[29-Aug-2016 14:34:59 asia/ho_chi_minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdslong1/public_html/admin/lib/functions.php:221) in /home/bdslong1/public_html/admin/sources/setting.php on line 70
+[29-Aug-2016 14:34:59 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[29-Aug-2016 14:34:59 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[29-Aug-2016 14:34:59 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[29-Aug-2016 14:40:06 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[29-Aug-2016 14:40:06 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[29-Aug-2016 14:40:06 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[29-Aug-2016 14:48:21 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[29-Aug-2016 14:48:21 asia/ho_chi_minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdslong1/public_html/admin/lib/functions.php:221) in /home/bdslong1/public_html/admin/sources/setting.php on line 70
+[29-Aug-2016 14:48:21 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[29-Aug-2016 14:48:21 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[29-Aug-2016 14:48:21 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[29-Aug-2016 16:18:52 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[29-Aug-2016 16:18:52 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[30-Aug-2016 09:29:26 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[30-Aug-2016 09:29:26 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[30-Aug-2016 09:54:52 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[30-Aug-2016 09:54:52 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[30-Aug-2016 09:54:52 asia/ho_chi_minh] PHP Warning:  imagecreatefrompng(): '../upload/news/so-huu-can-ho-o-sai-gon-voi-6-trieuthang1472525692.png' is not a valid PNG file in /home/bdslong1/public_html/admin/lib/functions.php on line 687
+[30-Aug-2016 09:54:52 asia/ho_chi_minh] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bdslong1/public_html/admin/lib/functions.php on line 783
+[30-Aug-2016 10:02:43 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[30-Aug-2016 10:02:43 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[30-Aug-2016 10:02:43 asia/ho_chi_minh] PHP Warning:  imagecreatefrompng(): '../upload/news/so-huu-can-ho-o-sai-gon-voi-6-trieuthang1472526163.png' is not a valid PNG file in /home/bdslong1/public_html/admin/lib/functions.php on line 687
+[30-Aug-2016 10:02:43 asia/ho_chi_minh] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bdslong1/public_html/admin/lib/functions.php on line 783
+[30-Aug-2016 10:03:17 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[30-Aug-2016 10:03:17 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[30-Aug-2016 10:06:00 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[30-Aug-2016 10:06:00 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[30-Aug-2016 14:17:04 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[30-Aug-2016 14:17:04 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[31-Aug-2016 09:23:57 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[31-Aug-2016 09:23:57 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Sep-2016 09:53:24 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Sep-2016 09:53:24 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Sep-2016 09:53:24 asia/ho_chi_minh] PHP Warning:  imagecreatefrompng(): '../upload/news/ngan-hang-viettinbank-ky-ket-bao-lanh-du-an-heaven-riverview1472698404.png' is not a valid PNG file in /home/bdslong1/public_html/admin/lib/functions.php on line 687
+[01-Sep-2016 09:53:24 asia/ho_chi_minh] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bdslong1/public_html/admin/lib/functions.php on line 783
+[01-Sep-2016 09:54:36 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Sep-2016 09:54:36 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Sep-2016 16:37:51 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[01-Sep-2016 16:37:51 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[01-Sep-2016 16:37:51 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[01-Sep-2016 16:39:34 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[01-Sep-2016 16:39:34 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[01-Sep-2016 16:39:34 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[01-Sep-2016 16:40:27 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[01-Sep-2016 16:40:27 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[01-Sep-2016 16:40:27 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[05-Sep-2016 10:26:19 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[05-Sep-2016 10:26:19 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[05-Sep-2016 10:33:42 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[05-Sep-2016 10:33:42 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[05-Sep-2016 10:57:26 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[05-Sep-2016 10:57:26 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[05-Sep-2016 11:49:42 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[05-Sep-2016 11:49:42 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[05-Sep-2016 17:00:48 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[05-Sep-2016 17:00:48 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[06-Sep-2016 14:49:28 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[06-Sep-2016 14:49:29 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[07-Sep-2016 10:36:46 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[07-Sep-2016 10:36:46 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[07-Sep-2016 10:53:55 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[07-Sep-2016 10:53:55 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[07-Sep-2016 16:45:10 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[07-Sep-2016 16:45:10 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[07-Sep-2016 16:45:10 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[07-Sep-2016 16:45:30 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[07-Sep-2016 16:45:30 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[07-Sep-2016 16:45:30 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[08-Sep-2016 10:33:28 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[08-Sep-2016 10:33:28 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[08-Sep-2016 16:01:46 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[08-Sep-2016 16:01:46 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[08-Sep-2016 16:01:46 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[09-Sep-2016 15:56:31 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[09-Sep-2016 15:56:35 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[09-Sep-2016 15:56:35 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[09-Sep-2016 15:56:35 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[09-Sep-2016 15:56:35 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[09-Sep-2016 15:56:35 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[09-Sep-2016 15:59:34 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[09-Sep-2016 15:59:34 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[09-Sep-2016 16:00:08 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[09-Sep-2016 16:00:08 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[09-Sep-2016 16:00:22 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[09-Sep-2016 16:00:22 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[09-Sep-2016 16:03:14 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[09-Sep-2016 16:03:14 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[09-Sep-2016 16:03:47 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[09-Sep-2016 16:03:47 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[09-Sep-2016 16:03:59 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[09-Sep-2016 16:03:59 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[09-Sep-2016 16:04:13 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[09-Sep-2016 16:04:13 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[09-Sep-2016 16:14:44 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[09-Sep-2016 16:29:41 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Sep-2016 14:23:45 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Sep-2016 14:23:45 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[12-Sep-2016 11:37:35 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[12-Sep-2016 11:37:35 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[15-Sep-2016 15:23:26 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[15-Sep-2016 15:23:26 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Sep-2016 14:24:15 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Sep-2016 14:24:15 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Sep-2016 14:30:31 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Sep-2016 14:30:31 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[17-Sep-2016 09:22:33 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[17-Sep-2016 09:22:33 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[17-Sep-2016 09:22:33 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[17-Sep-2016 11:29:01 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[17-Sep-2016 11:29:01 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[19-Sep-2016 11:02:24 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[19-Sep-2016 11:02:24 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[26-Sep-2016 09:27:26 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[26-Sep-2016 09:27:26 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[26-Sep-2016 09:27:26 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[26-Sep-2016 09:27:26 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): '../upload/news/bat-dong-san-hut-1-ty-usd-von-ngoai-trong-9-thang1474856846.jpg' is not a valid JPEG file in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[26-Sep-2016 09:27:26 asia/ho_chi_minh] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bdslong1/public_html/admin/lib/functions.php on line 783
+[26-Sep-2016 09:37:58 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[26-Sep-2016 09:37:58 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[26-Sep-2016 09:39:05 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[26-Sep-2016 09:39:05 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[26-Sep-2016 09:39:05 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[26-Sep-2016 09:39:05 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): '../upload/news/bat-dong-san-hut-1-ty-usd-von-ngoai-trong-9-thang1474857545.jpg' is not a valid JPEG file in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[26-Sep-2016 09:39:05 asia/ho_chi_minh] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bdslong1/public_html/admin/lib/functions.php on line 783
+[26-Sep-2016 09:40:50 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[26-Sep-2016 09:40:50 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[26-Sep-2016 16:07:06 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[26-Sep-2016 16:07:06 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[28-Sep-2016 13:30:34 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[28-Sep-2016 13:30:34 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[28-Sep-2016 13:41:32 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[28-Sep-2016 13:41:32 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[29-Sep-2016 16:01:45 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[29-Sep-2016 16:01:45 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[29-Sep-2016 16:14:04 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[29-Sep-2016 16:14:04 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[03-Oct-2016 11:00:34 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[03-Oct-2016 11:00:34 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[03-Oct-2016 11:04:58 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[03-Oct-2016 11:04:58 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[03-Oct-2016 11:10:23 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[03-Oct-2016 11:10:23 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[03-Oct-2016 11:18:35 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[03-Oct-2016 11:18:35 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[13-Oct-2016 09:21:37 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[13-Oct-2016 09:21:37 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[13-Oct-2016 11:03:05 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[13-Oct-2016 11:03:05 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[13-Oct-2016 11:03:05 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[25-Oct-2016 11:25:32 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[25-Oct-2016 11:25:32 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[10-Nov-2016 10:37:48 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 10:37:48 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 14:49:59 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 14:49:59 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 14:49:59 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 14:49:59 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 14:50:02 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 14:50:03 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 14:50:03 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 14:50:03 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 14:50:03 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 14:50:07 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 14:51:01 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 14:51:01 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 15:12:07 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 15:12:07 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 15:12:08 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 15:12:08 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 15:12:08 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 15:12:08 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 15:12:08 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 15:12:08 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 15:12:08 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 15:12:08 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 15:12:34 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 15:12:34 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 15:12:34 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 15:12:34 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 15:35:35 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 15:35:35 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 16:34:09 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 16:34:09 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 16:34:10 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 16:34:10 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 16:34:12 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 16:34:12 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 16:34:12 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 16:34:12 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 16:34:12 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 16:34:15 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 16:35:09 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 16:35:09 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 16:35:09 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 16:35:09 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[10-Nov-2016 16:35:09 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[10-Nov-2016 16:35:09 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[18-Nov-2016 09:07:18 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[18-Nov-2016 09:07:18 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[18-Nov-2016 09:07:42 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[18-Nov-2016 09:07:42 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[18-Nov-2016 10:02:33 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[18-Nov-2016 10:02:33 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[18-Nov-2016 10:20:00 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[18-Nov-2016 10:20:00 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Dec-2016 15:45:58 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Dec-2016 15:45:58 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Dec-2016 16:21:41 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:21:41 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:21:41 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:21:45 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:21:45 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:21:45 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:21:48 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:21:48 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:21:48 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:21:50 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:21:50 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:21:50 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:21:56 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:21:56 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:21:56 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:36:16 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:36:16 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:36:16 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:36:19 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:36:19 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:36:19 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:36:36 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:36:36 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:36:36 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:36:40 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:36:40 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Dec-2016 16:36:40 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 15:59:05 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 15:59:05 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 15:59:05 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 16:03:05 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 16:03:05 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 16:03:05 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 16:03:50 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 16:03:50 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 16:03:50 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 17:21:40 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[19-Dec-2016 17:21:40 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[19-Dec-2016 17:21:40 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[19-Dec-2016 17:21:40 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[19-Dec-2016 17:21:41 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[19-Dec-2016 17:21:41 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[19-Dec-2016 17:23:50 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 17:23:50 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 17:23:50 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 17:23:54 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 17:23:54 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 17:23:54 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 17:23:57 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 17:23:57 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 17:23:57 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 17:24:01 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 17:24:01 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Dec-2016 17:24:01 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[28-Dec-2016 16:32:34 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[28-Dec-2016 16:32:34 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[28-Dec-2016 16:32:34 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[28-Dec-2016 16:32:50 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[28-Dec-2016 16:32:50 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[28-Dec-2016 16:32:50 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[28-Dec-2016 16:37:21 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[28-Dec-2016 16:37:21 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[28-Dec-2016 16:37:21 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[03-Jan-2017 13:45:01 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[03-Jan-2017 13:45:01 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[03-Jan-2017 13:45:01 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[05-Jan-2017 14:44:46 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[05-Jan-2017 14:44:46 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[05-Jan-2017 14:44:46 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[05-Jan-2017 14:44:51 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[05-Jan-2017 14:44:51 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[05-Jan-2017 14:44:51 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[05-Jan-2017 22:32:41 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[05-Jan-2017 22:32:41 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[06-Jan-2017 14:47:48 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[06-Jan-2017 14:47:48 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[06-Jan-2017 14:47:48 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[06-Jan-2017 17:51:21 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[06-Jan-2017 17:51:21 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[06-Jan-2017 17:55:06 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[06-Jan-2017 17:55:06 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[12-Jan-2017 15:09:07 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[12-Jan-2017 15:09:07 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[13-Jan-2017 17:29:50 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[13-Jan-2017 17:29:50 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 14:29:49 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Jan-2017 14:29:49 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Jan-2017 14:29:49 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[16-Jan-2017 15:13:21 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:13:21 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:15:11 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:15:11 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:21:52 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:21:52 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:22:01 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:22:01 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:22:11 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:22:11 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:22:21 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:22:21 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:22:27 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:22:27 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:22:33 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:22:33 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:24:46 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:24:46 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:24:46 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:24:46 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): '../upload/hinhanh/1484555086.jpg' is not a valid JPEG file in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:24:46 asia/ho_chi_minh] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bdslong1/public_html/admin/lib/functions.php on line 783
+[16-Jan-2017 15:25:04 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:25:04 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:25:04 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:25:04 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): '../upload/hinhanh/1484555104.jpg' is not a valid JPEG file in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:25:04 asia/ho_chi_minh] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bdslong1/public_html/admin/lib/functions.php on line 783
+[16-Jan-2017 15:25:26 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:25:26 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:25:26 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:25:26 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): '../upload/hinhanh/1484555126.jpg' is not a valid JPEG file in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:25:26 asia/ho_chi_minh] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bdslong1/public_html/admin/lib/functions.php on line 783
+[16-Jan-2017 15:25:34 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:25:34 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:25:34 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:25:34 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): '../upload/hinhanh/1484555134.jpg' is not a valid JPEG file in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:25:34 asia/ho_chi_minh] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bdslong1/public_html/admin/lib/functions.php on line 783
+[16-Jan-2017 15:25:53 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:25:53 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:25:53 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:25:53 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): '../upload/hinhanh/1484555153.jpg' is not a valid JPEG file in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:25:53 asia/ho_chi_minh] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bdslong1/public_html/admin/lib/functions.php on line 783
+[16-Jan-2017 15:26:26 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:26:26 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:26:26 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:26:26 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): '../upload/hinhanh/1484555186.jpg' is not a valid JPEG file in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:26:26 asia/ho_chi_minh] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bdslong1/public_html/admin/lib/functions.php on line 783
+[16-Jan-2017 15:26:40 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:26:40 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:26:40 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:26:40 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): '../upload/hinhanh/1484555200.jpg' is not a valid JPEG file in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:26:40 asia/ho_chi_minh] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bdslong1/public_html/admin/lib/functions.php on line 783
+[16-Jan-2017 15:27:32 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:27:32 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:27:32 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:27:32 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): '../upload/hinhanh/1484555252.jpg' is not a valid JPEG file in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:27:32 asia/ho_chi_minh] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bdslong1/public_html/admin/lib/functions.php on line 783
+[16-Jan-2017 15:27:46 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:27:46 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:27:46 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:27:46 asia/ho_chi_minh] PHP Warning:  imagecreatefromjpeg(): '../upload/hinhanh/1484555266.jpg' is not a valid JPEG file in /home/bdslong1/public_html/admin/lib/functions.php on line 683
+[16-Jan-2017 15:27:46 asia/ho_chi_minh] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/bdslong1/public_html/admin/lib/functions.php on line 783
+[16-Jan-2017 15:35:35 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:35:35 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:35:45 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:35:45 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:35:50 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:35:50 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:35:58 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:35:58 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:36:08 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:36:08 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[16-Jan-2017 15:36:16 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[16-Jan-2017 15:36:16 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[17-Jan-2017 23:10:46 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[17-Jan-2017 23:10:46 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[17-Jan-2017 23:10:46 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[18-Jan-2017 14:27:17 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[18-Jan-2017 14:27:17 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[18-Jan-2017 14:27:17 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[18-Jan-2017 14:28:16 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[18-Jan-2017 14:28:16 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[18-Jan-2017 14:28:16 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[18-Jan-2017 14:30:08 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[18-Jan-2017 14:30:08 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[18-Jan-2017 14:30:08 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[19-Jan-2017 15:03:06 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[19-Jan-2017 15:03:06 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[19-Jan-2017 16:49:05 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[19-Jan-2017 16:49:05 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[19-Jan-2017 17:04:33 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[19-Jan-2017 17:04:33 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[09-Feb-2017 17:08:51 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[09-Feb-2017 17:08:51 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[11-Feb-2017 15:38:25 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[11-Feb-2017 15:38:25 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[11-Feb-2017 16:23:09 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[11-Feb-2017 16:23:09 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[11-Feb-2017 16:24:42 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[11-Feb-2017 16:24:42 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[11-Feb-2017 16:26:44 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[11-Feb-2017 16:26:44 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[11-Feb-2017 16:27:58 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[11-Feb-2017 16:27:58 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[14-Feb-2017 15:21:52 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[14-Feb-2017 15:21:52 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[17-Feb-2017 15:54:29 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[17-Feb-2017 15:54:29 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[17-Feb-2017 16:21:23 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[17-Feb-2017 16:21:23 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[17-Feb-2017 16:24:54 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[17-Feb-2017 16:24:54 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[17-Feb-2017 16:26:16 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[17-Feb-2017 16:26:16 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[17-Feb-2017 17:00:13 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[17-Feb-2017 17:00:13 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[17-Feb-2017 17:11:25 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[17-Feb-2017 17:11:25 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[23-Feb-2017 14:34:40 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[23-Feb-2017 14:34:40 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[24-Feb-2017 15:50:09 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[24-Feb-2017 15:50:09 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[15-Mar-2017 17:08:53 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[15-Mar-2017 17:08:53 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[15-Mar-2017 17:08:53 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[15-Mar-2017 17:11:55 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[15-Mar-2017 17:11:55 asia/ho_chi_minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdslong1/public_html/admin/lib/functions.php:221) in /home/bdslong1/public_html/admin/sources/setting.php on line 70
+[15-Mar-2017 17:11:55 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[15-Mar-2017 17:11:55 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[15-Mar-2017 17:11:55 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[15-Mar-2017 17:12:20 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[15-Mar-2017 17:12:20 asia/ho_chi_minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdslong1/public_html/admin/lib/functions.php:221) in /home/bdslong1/public_html/admin/sources/setting.php on line 70
+[15-Mar-2017 17:12:20 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[15-Mar-2017 17:12:20 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[15-Mar-2017 17:12:20 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[25-Mar-2017 15:46:47 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[25-Mar-2017 15:46:47 asia/ho_chi_minh] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bdslong1/public_html/admin/lib/functions.php:221) in /home/bdslong1/public_html/admin/sources/setting.php on line 70
+[25-Mar-2017 15:46:47 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[25-Mar-2017 15:46:47 asia/ho_chi_minh] PHP Warning:  include(./templates/_tpl.php): failed to open stream: No such file or directory in /home/bdslong1/public_html/admin/index.php on line 153
+[25-Mar-2017 15:46:47 asia/ho_chi_minh] PHP Warning:  include(): Failed opening './templates/_tpl.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bdslong1/public_html/admin/index.php on line 153
+[27-Mar-2017 16:05:40 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[27-Mar-2017 16:05:40 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[28-Mar-2017 17:34:14 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[28-Mar-2017 17:34:14 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[30-Mar-2017 14:21:58 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[30-Mar-2017 14:21:58 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Apr-2017 15:05:09 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Apr-2017 15:05:09 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[01-Apr-2017 15:12:43 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[01-Apr-2017 15:12:43 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[03-Apr-2017 13:58:39 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[03-Apr-2017 13:58:39 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[03-Apr-2017 16:43:39 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221
+[03-Apr-2017 16:43:39 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 678
+[26-Oct-2018 21:19:26 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/choquynh/longlongson.com/admin/lib/functions.php on line 221
+[26-Oct-2018 21:19:26 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/choquynh/longlongson.com/admin/lib/functions.php on line 678

@@ -1,0 +1,3 @@
+[08-Sep-2016 15:52:21 asia/ho_chi_minh] PHP Parse error:  syntax error, unexpected '}' in /home/bdslong1/public_html/templates/layout/footer.php on line 10
+[08-Sep-2016 15:52:31 asia/ho_chi_minh] PHP Parse error:  syntax error, unexpected '}' in /home/bdslong1/public_html/templates/layout/footer.php on line 10
+[27-Feb-2017 17:43:24 asia/ho_chi_minh] PHP Strict Standards:  Only variables should be passed by reference in /home/bdslong1/public_html/admin/lib/functions.php on line 221

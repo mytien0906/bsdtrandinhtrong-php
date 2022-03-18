@@ -1,0 +1,8 @@
+.fa-check-square-o.hienthi{ color: #08B108;cursor: pointer;}
+.fa-square-o.hienthi{color: #F00;cursor: pointer;}
+.fa-star-o.noibat{ color: #000;cursor: pointer;}
+.fa-star.noibat{color: #F00;cursor: pointer;}
+.paging{ display: inline-block;margin-bottom: 10px; border: 1px solid #CCC; border-radius: 3px; background: #fafafa;}
+.paging a,.paging span{ padding: 5px 10px; display: inline-block; border-right: 1px solid #CCC;}
+.paging a:last-child{border-right: none;}
+.tinhtrang{cursor: pointer;}
