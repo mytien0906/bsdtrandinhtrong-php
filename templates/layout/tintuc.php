@@ -1,7 +1,7 @@
 <section id="tuvan" class="tuvan-top mt-20 w-100 clearfix">
   <div class="container">
     <div class="title bg-transparent t-left w-100">
-      <h4 class="ds-inline-block p-relative"><a href="tin-tuc" class="p-relative">Tin tức và sự kiện</a></h4>
+      <h4 class="ds-inline-block p-relative"><a href="tin-tuc" class="p-relative border-bottom">Tin tức và sự kiện</a></h4>
     </div>
     <div class="content w-100 mt-20 clearfix o-hidden">
       <div class="tintuc-left">

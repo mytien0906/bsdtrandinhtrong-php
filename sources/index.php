@@ -95,6 +95,7 @@ $schema = '<script type="application/ld+json">
   if($psize!=0){
     $per_page = $psize; // Set how many records do you want to display per page.
   }else{
+    
     $per_page = $row_setting['page_in'];
   }
   $startpoint = ($page * $per_page) - $per_page;

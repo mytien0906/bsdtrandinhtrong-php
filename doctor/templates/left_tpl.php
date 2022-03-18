@@ -110,6 +110,7 @@
         <li<?php if($_GET['type']=='logo') echo ' class="this"' ?>><a href="index.php?com=bannerqc&act=capnhat&type=logo" title="">Logo</a></li>
         <li<?php if($_GET['type']=='bg_footer') echo ' class="this"' ?>><a href="index.php?com=bannerqc&act=capnhat&type=bg_footer" title="">Background footer</a></li>
         <li<?php if($_GET['type']=='banner_top') echo ' class="this"' ?>><a href="index.php?com=bannerqc&act=capnhat&type=banner_top" title="">Banner top</a></li>
+        <li<?php if($_GET['type']=='banner_top') echo ' class="this"' ?>><a href="index.php?com=bannerqc&act=capnhat&type=quangcao_left" title="">Banner QC</a></li>
         <li<?php if($_GET['type']=='popup') echo ' class="this"' ?>><a href="index.php?com=bannerqc&act=capnhat&type=popup" title="">Popup</a></li>
         <li<?php if($_GET['type']=='hinhdaidien') echo ' class="this"' ?>><a href="index.php?com=bannerqc&act=capnhat&type=hinhdaidien" title="">Hình đại diện share link</a></li>
       </ul>

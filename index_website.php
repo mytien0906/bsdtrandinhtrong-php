@@ -27,6 +27,7 @@
 <meta property="fb:app_id" content="<?=$config['facebook-id']?>" />
 <?php } ?>
 <link type="text/css" rel="stylesheet" href="style.css" />
+<link type="text/css" rel="stylesheet" href="css/bo" />
 <link type="text/css" rel="stylesheet" href="plugins/font-awesome/css/font-awesome.min.css" />
 <link type="text/css" rel="stylesheet" href="css/pe-icon-7-stroke.css" />
 <link type="text/css" rel="stylesheet" href="plugins/slick/slick.css" />
@@ -86,12 +87,13 @@
           <?php include _template.$template."_tpl.php";?>
           <?php }else{ ?>
           <?php include_once _template."layout/sanphamall.php"; ?>
+          <?php include_once _template."layout/quangcao.php"; ?>
           <?php include_once _template."layout/tintuc.php"; ?>
           <?php } ?>
         </div>
-        <div class="right-page">
+        <!-- <div class="right-page">
           <?php include_once _template."layout/right.php"; ?>
-        </div>
+        </div> -->
       <?php }else{ ?>
         <div class="breadcumb mt-10 mb-20"><?=$breadcumb?></div>
         <?php include _template.$template."_tpl.php";?>

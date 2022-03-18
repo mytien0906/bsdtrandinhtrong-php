@@ -18,7 +18,7 @@
 	if($type==1){
 		$danhmuc_sanpham = get_result_array("select id, ten_vi as ten from table_baiviet_cat where id_list=".$id." and hienthi=1 order by stt asc, id desc");
 
-		$ch = '<option value="0">Chọn loại nhà đất</option>';
+		$ch = '<option value="0">Khoảng giá</option>';
 		foreach ($danhmuc_sanpham as $key => $value) {
 			$ch .= '<option value="'.$value['id'].'">'.$value['ten'].'</option>';
 		}
