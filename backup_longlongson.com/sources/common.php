@@ -61,7 +61,7 @@
 	$d->reset();
 	$sql="select noidung_$lang as noidung from #_page where type='footer'";
 	$d->query($sql);
-	$footer=$d->fetch_array();
+	=$d->fetch_array();
 
 	## Yahoo
 	$d->reset();

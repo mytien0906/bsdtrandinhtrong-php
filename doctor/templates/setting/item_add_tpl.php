@@ -63,7 +63,7 @@ $(document).ready(function(){
 	<div class="colLeft">
 		<div class="widget mtop0">
 			<div class="title"><img src="./images/icons/dark/record.png" alt="" class="titleIcon" />
-				<h6>Thông tin chung</h6>
+				<h6>Thông tin chung 5</h6>
 			</div>
 
 
@@ -83,6 +83,7 @@ $(document).ready(function(){
 				</div>
 				<div class="clear"></div>
 			</div>
+			
 
 			<div class="formRow lang_hidden lang_<?=$k?> <?= ($k == 'vi') ? 'active': '' ?>">
 				<label>Slogan [<?=$v?>]</label>

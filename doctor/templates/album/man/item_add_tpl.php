@@ -175,7 +175,7 @@ $(document).ready(function(){
 					</div>
 					<?php } ?>
 					<?php if($config_info['noidung']==true){ ?>
-					<div class="formRow lang_hidden lang_<?=$k?> <?= ($k == 'vi') ? 'active': '' ?>">
+					<div class=" lang_hidden lang_<?=$k?> <?= ($k == 'vi') ? 'active': '' ?>">
 						<label>Nội dung [<?=$v?>]</label>
 						<div class="ck_editor">
 			                <textarea title="Nhập nội dung . " id="noidung_<?=$k?>" class="ck_editors" name="noidung_<?=$k?>"><?=@$item['noidung_'.$k]?></textarea>

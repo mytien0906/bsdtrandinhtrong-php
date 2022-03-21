@@ -41,6 +41,10 @@
 <?php } ?>
 <script language="javascript" type="text/javascript" src="js/jquery-1.12.0.min.js"></script>
 <script language="javascript" type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="plugins/slick/slick.min.js"></script>
 </head>
 
 <body>

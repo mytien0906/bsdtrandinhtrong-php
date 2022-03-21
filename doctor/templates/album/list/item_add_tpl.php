@@ -64,7 +64,7 @@ $(document).ready(function(){
 
 		<div class="<?=($config_cap['full']==true) ? 'oneOne':'colLeft' ?>">
 			<div class="widget mtop0">
-				<div class="title"><img src="./images/icons/dark/record.png" alt="" class="titleIcon" />
+				<div class="title"><img src="./images/icons/dark/record.png" alt="" class="" />
 					<h6>Thông tin</h6>
 				</div>
 
