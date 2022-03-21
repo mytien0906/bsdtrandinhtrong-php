@@ -19,12 +19,12 @@
           <div class="title-footer">
             <h6>Trụ sở</h6>
           </div>
-          <ul>
-            <li>
+          <ul class="footer-block">
+            <li class="footer-item">
               <span>Địa chỉ: </span>
               <?= $row_setting['diachi_vi'] ?>
             </li>
-            <li>
+            <li class="footer-item">
               <?= $row_setting['diachi_en'] ?>
 
             </li>
@@ -36,10 +36,11 @@
           <div class="title-footer">
             <h6>Hỗ trợ khách hàng</h6>
           </div>
-          <ul>
-            <li><a href="">Hotline: <span><?= $row_setting['dienthoai'] ?></span></a></li>
-            <li><a href="">Website: <span><?= $row_setting['lienketweb'] ?></span></a></li>
-            <li>
+
+          <ul class="footer-block">
+            <li class="footer-item"><a href="">Hotline: <span><?= $row_setting['dienthoai'] ?></span></a></li>
+            <li class="footer-item"><a href="">Website: <span><?= $row_setting['website'] ?></span></a></li>
+            <li class="footer-item">
               <p><?= $row_setting['slogan_vi'] ?></p>
             </li>
           </ul>

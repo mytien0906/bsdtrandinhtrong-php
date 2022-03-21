@@ -294,7 +294,7 @@ h6 {
 
 .border-bottom::after {
 	width: 100px;
-	background: #15b04d;
+	background: var(--bg-color);
 	border-radius: 4px;
 }
 
@@ -546,13 +546,22 @@ ul.top-page li a:hover {
 	float: left;
 	color: #FFF;
 	display: flex;
-	justify-content: flex-start;
+	justify-content: flex-end;
 }
 
 .headtop ul li:nth-child(1) a {
-	color: #333;
+	/* color: #333;
 	line-height: 40px;
-	margin-right: 20px;
+	margin-right: 20px; */
+	margin-right: 10px;
+    display: block;
+    padding: 8px;
+    color: #FFF;
+    font-size: 13px;
+    text-transform: uppercase;
+    line-height: 30px;
+    font-family: 'OpenSansBold';
+    text-align: center;
 }
 
 .headtop ul li:nth-child(2) {
@@ -1853,7 +1862,7 @@ ul.top-page li a:hover {
 	line-height: 22px;
 	font-weight: 400;
 	color: #FFF;
-	background: #1CBA01;
+	background: var(--color-top-header);
 	padding: 5px 10px;
 }
 
@@ -1884,16 +1893,16 @@ ul.top-page li a:hover {
 
 .load-more {
 	/* display: block; */
-	color: #15b04d;
+	color: var(--bg-color);
 	font-size: 16px;
 	text-align: center;
 	/* font-weight: bold; */
-	border: 1px solid #15b04d;
+	border: 1px solid var(--bg-color);
 	padding: 8px 10px;
 }
 
 .product:hover .product-title h4 a {
-	color: #1CBA01;
+	color: var(--color-top-header);
 	text-decoration: none;
 }
 
@@ -2049,11 +2058,11 @@ ul.top-page li a:hover {
 
 .box-tintuc .load-more {
 	display: block;
-	color: #15b04d;
+	color: vara(--color-top-header);
 	font-size: 16px;
 	text-align: center;
 	/* font-weight: bold; */
-	border: 1px solid #15b04d;
+	border: 1px solid vara(--color-top-header);
 	padding: 8px 10px;
 	margin: 0 auto;
 }
@@ -2584,7 +2593,7 @@ ul.top-page li a:hover {
 
 /* Footer */
 .footer-content {
-	background: #15B04D no-repeat right top;
+	background: var(--bg-color) no-repeat right top;
 }
 
 .box-footer {
@@ -2700,10 +2709,19 @@ ul.top-page li a:hover {
 .row-footer .desc p:nth-child(2) {
 	color: #5a5a5a;
 }
-
+/* footer */
+.footer-item,.test, .footer-item a, .copy-text{
+	color: #FFF;
+    font-size: 14px;
+    text-transform: uppercase;
+    line-height: 24px;
+    font-family: 'OpenSansBold';
+    text-align: left;
+	padding: 10px 0;
+}
 /* copy */
 .copy {
-	background: #159731;
+	background: var(--color-top-header);
 	padding: 10px 0px;
 }
 
